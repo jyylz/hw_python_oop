@@ -7,3 +7,11 @@ class Calculator:
 
 class Record:
     pass
+
+
+class CaloriesCalculator(Calculator):
+    pass
+
+
+class CashCalculator(Calculator):
+    pass
